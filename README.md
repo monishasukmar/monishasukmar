@@ -1,7 +1,10 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm S Monisha</h1>
-<h3 align="center">A student actively engaged and passionate about learning Web development.</h3>
-<img align="right" alt=Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img src="https://readme-typing-svg.herokuapp.com?color=ffA500&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Monisha;ML+%26+Cybersecurity+Engineer+💻;Full+Stack+%26+Web+Dev.;">
+
+ # About me
+ 
+✌️ &emsp; A student actively engaged and passionate about exploring new fields of Cybersecurity , Web dev & AI/ML/DL.  <br/><br/>
+
+<img align="right" alt=Coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monishasukmar&label=Profile%20views&color=0e75b6&style=flat" alt="monishasukmar" /> </p>
 
