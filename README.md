@@ -1,11 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=ffA500&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Monisha;ML+%26+Cybersecurity+Engineer+💻;Full+Stack+%26+Web+Dev.;">
 
- # About me
- 
-✌️ &emsp; A student actively engaged and passionate about exploring new fields of Cybersecurity , Web dev & AI/ML/DL.  <br/><br/>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=monishasukmar&label=Profile%20views&color=0e75b6&style=flat" alt="monishasukmar" /> </p>
 
+ <img align="right" width="250" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Coding gif" />
+✌️ &emsp; A student actively engaged and passionate about exploring new fields of Cybersecurity, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web dev & AI/ML/DL.  <br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monishasukmar&label=Profile%20views&color=0e75b6&style=flat" alt="monishasukmar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
